@@ -33,6 +33,7 @@ dependencies:
   cloud_firestore: ^2.3.0
   firebase_auth: ^2.0.0
   flutter_slidable: ^0.6.0
+  get: ^4.1.4
 
 dev_dependencies:
   flutter_test:
